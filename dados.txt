@@ -1,0 +1,10 @@
+Dados do aluno
+
+-Primeiro Nome: Melissa Nunes Carmo
+-Profissão: Analista de Qualidade de Software
+-Cidade: fortaleza-ce
+-O que faz nas horas vaga: leio, faço bolos, assito séries e treino as vezes.
+-Feedback sobre o curso Qualidade de Software: O curso está sendo ótimo para alavancar minha carreira. 
+-Feedback sobre a plataforma de estudo da EBAC: Podia colocar os links escrito e não no slide. 
+
+Obrigado!!!
